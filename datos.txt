@@ -1,0 +1,4 @@
+3 4
+producto1 2 7 53 223
+producto2 3 4 61 73
+producto3 1 34 43 62
